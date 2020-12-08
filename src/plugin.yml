@@ -1,0 +1,7 @@
+name: CompassTrack
+version: 1.0
+author: Martin Juras
+main: me.Th3gr3y8unny.CompassTrack.Main
+
+commands:
+  track:
